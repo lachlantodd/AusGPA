@@ -1,4 +1,4 @@
-# Final-Project
+# AusGPA
 Submission for the final project of Harvard's CS50x Introduction to Computer Science through edX.
 https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
 
